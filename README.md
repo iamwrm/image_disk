@@ -4,13 +4,13 @@
 ## Introduction
 I use this to make an image online
 so that we have access to the image 
-if we heve the raw address.
+as long as we heve the web link.
 
-## Step:
+## Steps:
 
 * Create and upload your repo on github 
     
-    **Make sure you have pushed your local images**
+    **Make sure you have pushed your local images to remote repo**
 * get the raw address
 
 ```
@@ -19,10 +19,12 @@ if we heve the raw address.
 
 As for me, it's
 ```
-![](https://raw.githubusercontent.com/iamwrm/image_disk/master/Screen%20Shot%202017-01-29%20at%205.23.24%20PM.jpg)
+![](https://raw.githubusercgntent.com/iamwrm/image_disk/master/avator.jpg)
 ```
-![](https://raw.githubusercontent.com/iamwrm/image_disk/master/Screen%20Shot%202017-01-29%20at%205.23.24%20PM.jpg)
 
+Then my avator image shows up
+
+![](https://raw.githubusercontent.com/iamwrm/image_disk/master/avator.jpg)
 
 
 
